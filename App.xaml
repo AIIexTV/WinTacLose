@@ -1,0 +1,11 @@
+﻿<Application x:Class="WinTacLose.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WinTacLose"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="BackgroundColor" Color="#65b14e"/>
+        <SolidColorBrush x:Key="ButtonColor" Color="#7fb170"/>
+        <SolidColorBrush x:Key="LineColor" Color="#00FF97"/>
+    </Application.Resources>
+</Application>
