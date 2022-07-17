@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WinTacLose</id>
+    <version>1.0.0</version>
+    <authors>WinTacLose</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Assets/Grid.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/Icon.ico" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O0.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O1.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O10.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O11.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O12.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O13.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O14.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O15.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O2.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O3.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O4.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O5.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O6.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O7.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O8.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/O9.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X0.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X1.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X10.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X11.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X12.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X13.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X14.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X15.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X2.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X3.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X4.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X5.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X6.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X7.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X8.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/X9.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Coding\WinTacLose\WinTacLose\bin\Release\net6.0-windows\WinTacLose.runtimeconfig.json" target="lib\net6.0-windows7.0\WinTacLose.runtimeconfig.json" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\bin\Release\net6.0-windows\WinTacLose.dll" target="lib\net6.0-windows7.0\WinTacLose.dll" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\Grid.png" target="content\Assets\Grid.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\Grid.png" target="contentFiles\any\net6.0-windows7.0\Assets\Grid.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\Icon.ico" target="content\Assets\Icon.ico" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\Icon.ico" target="contentFiles\any\net6.0-windows7.0\Assets\Icon.ico" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O0.png" target="content\Assets\O0.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O0.png" target="contentFiles\any\net6.0-windows7.0\Assets\O0.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O1.png" target="content\Assets\O1.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O1.png" target="contentFiles\any\net6.0-windows7.0\Assets\O1.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O10.png" target="content\Assets\O10.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O10.png" target="contentFiles\any\net6.0-windows7.0\Assets\O10.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O11.png" target="content\Assets\O11.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O11.png" target="contentFiles\any\net6.0-windows7.0\Assets\O11.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O12.png" target="content\Assets\O12.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O12.png" target="contentFiles\any\net6.0-windows7.0\Assets\O12.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O13.png" target="content\Assets\O13.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O13.png" target="contentFiles\any\net6.0-windows7.0\Assets\O13.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O14.png" target="content\Assets\O14.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O14.png" target="contentFiles\any\net6.0-windows7.0\Assets\O14.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O15.png" target="content\Assets\O15.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O15.png" target="contentFiles\any\net6.0-windows7.0\Assets\O15.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O2.png" target="content\Assets\O2.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O2.png" target="contentFiles\any\net6.0-windows7.0\Assets\O2.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O3.png" target="content\Assets\O3.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O3.png" target="contentFiles\any\net6.0-windows7.0\Assets\O3.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O4.png" target="content\Assets\O4.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O4.png" target="contentFiles\any\net6.0-windows7.0\Assets\O4.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O5.png" target="content\Assets\O5.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O5.png" target="contentFiles\any\net6.0-windows7.0\Assets\O5.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O6.png" target="content\Assets\O6.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O6.png" target="contentFiles\any\net6.0-windows7.0\Assets\O6.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O7.png" target="content\Assets\O7.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O7.png" target="contentFiles\any\net6.0-windows7.0\Assets\O7.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O8.png" target="content\Assets\O8.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O8.png" target="contentFiles\any\net6.0-windows7.0\Assets\O8.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O9.png" target="content\Assets\O9.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\O9.png" target="contentFiles\any\net6.0-windows7.0\Assets\O9.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X0.png" target="content\Assets\X0.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X0.png" target="contentFiles\any\net6.0-windows7.0\Assets\X0.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X1.png" target="content\Assets\X1.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X1.png" target="contentFiles\any\net6.0-windows7.0\Assets\X1.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X10.png" target="content\Assets\X10.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X10.png" target="contentFiles\any\net6.0-windows7.0\Assets\X10.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X11.png" target="content\Assets\X11.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X11.png" target="contentFiles\any\net6.0-windows7.0\Assets\X11.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X12.png" target="content\Assets\X12.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X12.png" target="contentFiles\any\net6.0-windows7.0\Assets\X12.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X13.png" target="content\Assets\X13.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X13.png" target="contentFiles\any\net6.0-windows7.0\Assets\X13.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X14.png" target="content\Assets\X14.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X14.png" target="contentFiles\any\net6.0-windows7.0\Assets\X14.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X15.png" target="content\Assets\X15.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X15.png" target="contentFiles\any\net6.0-windows7.0\Assets\X15.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X2.png" target="content\Assets\X2.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X2.png" target="contentFiles\any\net6.0-windows7.0\Assets\X2.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X3.png" target="content\Assets\X3.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X3.png" target="contentFiles\any\net6.0-windows7.0\Assets\X3.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X4.png" target="content\Assets\X4.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X4.png" target="contentFiles\any\net6.0-windows7.0\Assets\X4.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X5.png" target="content\Assets\X5.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X5.png" target="contentFiles\any\net6.0-windows7.0\Assets\X5.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X6.png" target="content\Assets\X6.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X6.png" target="contentFiles\any\net6.0-windows7.0\Assets\X6.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X7.png" target="content\Assets\X7.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X7.png" target="contentFiles\any\net6.0-windows7.0\Assets\X7.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X8.png" target="content\Assets\X8.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X8.png" target="contentFiles\any\net6.0-windows7.0\Assets\X8.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X9.png" target="content\Assets\X9.png" />
+    <file src="D:\Coding\WinTacLose\WinTacLose\Assets\X9.png" target="contentFiles\any\net6.0-windows7.0\Assets\X9.png" />
+  </files>
+</package>
